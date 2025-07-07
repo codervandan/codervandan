@@ -11,7 +11,7 @@ Welcome to my GitHub! I specialize in building modern, responsive web applicatio
 - **Backend**: Node.js, Express, PHP
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, GitHub, VS Code, Postman, npm
-- **Other**: A/B Testing, SEO Optimization, Figma, Photoshop
+- **Other**: SEO Optimization, Figma, Photoshop
 
 ---
 
@@ -42,8 +42,8 @@ Modern product display site designed for clarity, trust, and local compliance. P
 ### 📫 Let's Connect
 - 📧 Email: danielquintanadev@protonmail.com 
 - 🌐 Portfolio: https://dquintana-portfolio.netlify.app/
-- 💼 LinkedIn: [linkedin.com/in/d-quintanac
-- 🧠 Upwork: [upwork.com/freelancers/dquintanadev
+- 💼 LinkedIn: linkedin.com/in/d-quintanac
+- 🧠 Upwork: upwork.com/freelancers/dquintanadev
 
 ---
 
