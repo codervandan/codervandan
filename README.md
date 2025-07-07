@@ -55,3 +55,14 @@ Modern product display site designed for clarity, trust, and local compliance. P
 ---
 
 Thanks for stopping by! Don’t hesitate to check out my pinned projects or shoot me a message if you want to collaborate 🚀
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codervandan&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codervandan&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervandan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
