@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Daniel — aka @codervandan
 
-## 💻 Full-Stack Web Developer | UX/UI Enthusiast | Digital Problem Solver
+## 💻 Full-Stack Web Developer | Digital Problem Solver
 
 Welcome to my GitHub! I specialize in building modern, responsive web applications that are not just functional—but also beautifully designed and user-centered. From landing pages that convert, to full-stack applications that scale, I craft digital experiences that make an impact.
 
